@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Elise.CodeChallenge.PartTwo.Server
+namespace Elise.CodeChallenge.PartTwo.Server.Interfaces
 {
-    public class Class1
+    public interface IModelValidationService
     {
     }
 }
